@@ -1,0 +1,18 @@
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.exe.config
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.exe
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.pdb
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.csprojResolveAssemblyReference.cache
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415_Project.Form1.resources
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415_Project.Properties.Resources.resources
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.csproj.GenerateResource.Cache
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.exe
+D:\Source\New VS Projects\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.pdb
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.exe.config
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.exe
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.pdb
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.exe
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\bin\Debug\CPE415-Project.pdb
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.csprojResolveAssemblyReference.cache
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415_Project.Properties.Resources.resources
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415-Project.csproj.GenerateResource.Cache
+D:\Source\C#\Course Related\CPE415-Project\CPE415-Project\obj\Debug\CPE415_Project.mainForm.resources
